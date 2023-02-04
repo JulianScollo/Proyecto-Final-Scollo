@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "nombre": "Berserk",
+      "precio": 1300,
+      "img":
+        "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/389/629/products/0171-35fc68567560d4886316038068198252-480-0.webp",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "One Piece",
+      "precio": 1250,
+      "img":
+        "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/389/629/products/onepiece011-778bcfffc7d1f6acd116036697991543-480-0.webp",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Akira",
+      "precio": 6600,
+      "img":
+        "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/389/629/products/0161-b480f895003ef8146b16038064484538-480-0.webp",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Monster",
+      "precio": 4900,
+      "img":
+        "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/389/629/products/monsterkzb-011-5ca6ca7959066f99db16446907451704-480-0.webp",
+      "cantidad": 1
+    }
+  ]
